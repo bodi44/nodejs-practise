@@ -1,0 +1,8 @@
+{
+  "name": "logging",
+  "version": "1.0.0",
+  "dependencies": {
+    "debug": "latest",
+    "winston": "^3.2.1"
+  }
+}
